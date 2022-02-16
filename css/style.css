@@ -1,0 +1,13 @@
+section {
+  height: 100vh;
+}
+
+.welcome-section {
+  height: 100vh;
+}
+
+@media (max-width: 800px) {
+  .project-tile {
+    color: red;
+  }
+}
